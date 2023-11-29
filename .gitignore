@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Yarn Berry Local Directory
+.yarn/*
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
